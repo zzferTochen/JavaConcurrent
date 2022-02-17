@@ -2,12 +2,13 @@ package com.chen;
 
 public class TestFrames {
     public static void main(String[] args) {
-        Thread t1 = new Thread() {
-            @Override
-            public void run(){
-
-            }
-        };
+//        Thread t1 = new Thread() {
+//            @Override
+//            public void run(){
+//
+//            }
+//        };
+        method1(10);
     }
 
     private static void method1(int x){
