@@ -1,5 +1,6 @@
 package com.chen;
 
+
 import lombok.extern.slf4j.Slf4j;
 
 /**
@@ -22,7 +23,7 @@ public class TestSleep {
         };
 
         t1.start();
-        log.info("t1 state: {}",t1.getState());
+
 
         try {
             Thread.sleep(1000);
