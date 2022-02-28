@@ -8,7 +8,7 @@ import java.util.Random;
 import java.util.Vector;
 
 @Slf4j
-public class ExericseTranfer {
+public class ExericseSell {
     public static void main(String[] args) throws InterruptedException {
 
         //创建一个售票窗口，只有一个售票窗口，有1000张票
