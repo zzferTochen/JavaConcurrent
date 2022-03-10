@@ -53,6 +53,11 @@
             <scope>compile</scope>
         </dependency>
         <!-- 日志相关 - End -->
+        <dependency>
+            <groupId>org.openjdk.jol</groupId>
+            <artifactId>jol-core</artifactId>
+            <version>0.16</version>
+        </dependency>
 
     </dependencies>
 </project>
