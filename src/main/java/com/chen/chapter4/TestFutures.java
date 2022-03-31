@@ -42,7 +42,7 @@
 //
 //    private String mail;
 //
-//    public Postman(int id,String mail){
+//    public Postman(int idc,String mail){
 //        this.id = id;
 //        this.mail =mail;
 //    }
